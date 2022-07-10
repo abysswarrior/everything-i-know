@@ -16,6 +16,7 @@ A list of my skills based on my projects or tutorial exercises.
 ### Python
 
 * **Telethon** -- [_Telegram channel listener bot_](https://github.com/abysswarrior/palantir)
+* **CCXT** -- [_Command line tools to connect to binance account_](https://github.com/abysswarrior/binance-pnl-checker)
 
 <hr>
 
