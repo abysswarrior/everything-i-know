@@ -9,6 +9,7 @@ A list of my skills based on my projects or tutorial exercises.
 
 ### Django
 
+* **Django (intermediate)** -- [_A social media website deployed in Heroko platform_](https://github.com/abysswarrior/pwitter)
 * **DRF & selenium** -- [_A full feature webapp deployed in Heroko platform_](https://github.com/abysswarrior/crypto-funds-portfolio)
 
 <hr>
@@ -16,7 +17,7 @@ A list of my skills based on my projects or tutorial exercises.
 ### Python
 
 * **Telethon** -- [_Telegram channel listener bot_](https://github.com/abysswarrior/palantir)
-* **CCXT** -- [_Command line tools to connect to binance account_](https://github.com/abysswarrior/binance-pnl-checker)
+* **CCXT** -- [_Command line tools that connect to binance account_](https://github.com/abysswarrior/binance-pnl-checker)
 
 <hr>
 
