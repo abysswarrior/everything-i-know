@@ -11,7 +11,7 @@ A list of my skills based on my projects or tutorial exercises.
 
 * **Django (intermediate)** -- [_A social media website deployed in Fandogh platform_](https://github.com/abysswarrior/pwitter)
 * **DRF & selenium** -- [_A full feature webapp deployed in Heroko platform_](https://github.com/abysswarrior/crypto-funds-portfolio)
-* **DRF & Beautiful Soup** -- [_A website to find job in the Netherlands deployed in Fandogh platform_](https://github.com/abysswarrior/packend)
+* **Django & Beautiful Soup** -- [_A website to find job in the Netherlands deployed in Fandogh platform_](https://github.com/abysswarrior/packend)
 
 <hr>
 
