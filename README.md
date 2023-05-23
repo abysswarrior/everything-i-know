@@ -24,5 +24,5 @@ A list of my skills based on my projects or tutorial exercises.
 
 ### Algorithmic trading & Crypto bots
 
-* **freqtrade** -- [_full example of trading bot with UI_](#)
+* **freqtrade** -- [_My most useful docker-compose YML collections_](https://github.com/abysswarrior/docker-vault)
 
