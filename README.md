@@ -22,7 +22,7 @@ A list of my skills based on my projects or tutorial exercises.
 
 <hr>
 
-### Algorithmic trading & Crypto bots
+### Devops
 
-* **freqtrade** -- [_My most useful docker-compose YML collections_](https://github.com/abysswarrior/docker-vault)
+* **docker-compose** -- [_My most useful docker-compose YML collections_](https://github.com/abysswarrior/docker-vault)
 
