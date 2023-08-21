@@ -18,6 +18,7 @@ A list of my skills based on my projects or tutorial exercises.
 
 ### Python
 
+* **Typer** -- [_CLI tool that collect essential utilities from network diagnostics to DevOps automation_](https://github.com/abysswarrior/promethe)
 * **Telethon** -- [_Telegram channel listener bot_](https://github.com/abysswarrior/palantir)
 * **CCXT** -- [_Command line tools that connect to binance account_](https://github.com/abysswarrior/binance-pnl-checker)
 
