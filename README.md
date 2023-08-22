@@ -16,6 +16,12 @@ A list of my skills based on my projects or tutorial exercises.
 
 <hr>
 
+### Best Practices
+
+* **Django Base** -- [_best practices for base django skeleton_](https://github.com/abysswarrior/base)
+
+<hr>
+
 ### Python
 
 * **Typer** -- [_CLI tool that collect essential utilities from network diagnostics to DevOps automation_](https://github.com/abysswarrior/promethe)
