@@ -4,6 +4,9 @@ A list of my skills based on my projects or tutorial exercises.
 ### Front-End
 
 * **HTML & CSS** -- [_my front-end exercises with pure HTML & CSS including two projects_](https://github.com/abysswarrior/my-ui-collection)
+* **HTML & CSS & JS** -- [_A non-profit, volunteer-built platform offering emergency psychological support_](https://github.com/abysswarrior/taste_of_cherry)
+  
+
 
 <hr>
 
